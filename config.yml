@@ -83,7 +83,7 @@ languages:
                   url: tags
         menu:
             main:
-                - name: Mais antigas
+                - name: Posts
                   url: archives/
                   weight: 5
                 - name: Tags
