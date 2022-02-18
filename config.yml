@@ -29,11 +29,11 @@ languages:
             subtitle: "Music can be modulated in several ways:
              rhythmically and harmonically, but also historically and culturally.
              Sounds modulate our mood and our senses, they make our
-             body move and our emotions flow.
+             body move and our emotions flow.<br><br>
             
-            We believe in the transforming power of music so we created Modulandu.<br><br>
+            We believe in the transforming power of music so we created Modulandu.
             Our label works together with artists so they can express their most genuine 
-            voice to the world."
+            voice to the world. Join us in this journey."
             buttons:
                 - name: Blog
                   url: posts
@@ -70,12 +70,12 @@ languages:
             subtitle: "Música pode ser modulada de diversas maneiras: 
             rítmica e harmonicamente, mas também histórica e culturalmente. 
             Sons modulam o nosso humor e os nossos sentidos, fazem nosso 
-            corpo se mover e nossas emoções fluírem. 
+            corpo se mover e nossas emoções fluírem. <br>br>
 
             Nós acreditamos no poder transformador da música, então criamos 
-            Modulandu.<br>br>
+            Modulandu.
             Nosso selo trabalha junto a artistas para que eles possam expressar 
-            a mais genuína das suas vozes para o mundo."
+            a mais genuína das suas vozes para o mundo. Venha conosco nesta viagem."
             buttons:
                 - name: Blog
                   url: posts
