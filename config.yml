@@ -26,7 +26,15 @@ languages:
             imageTitle: logo
             imageWidth: 120
             imageHeight: 120
-            subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
+            subtitle: "Music can be modulated in several ways:
+             rhythmically and harmonically, but also historically and culturally.
+             Sounds modulate our mood and our senses, they make our
+             body move and our emotions flow.
+            
+             We believe in the transforming power of music so we created Modulandu.<br><br>
+            Revolution is possible when genuine art is expressed. But it is sometimes tricky 
+            for artists and their music reach an audience. Our label work together with 
+            artists so they can express their most genuine voice to the world."
             buttons:
                 - name: Blog
                   url: posts
@@ -64,13 +72,13 @@ languages:
             rítmica e harmonicamente, mas também histórica e culturalmente. 
             Sons modulam o nosso humor e os nossos sentidos, fazem nosso 
             corpo se mover e nossas emoções fluírem. 
-            
-            Acreditando no poder transformador da música nós criamos o selo Modulandu.<br><br>
-            Nosso selo se orienta em saber mais sobre as pessoas que criam 
-            e criar com elas. Nós produzimos nossas próprias músicas e ajudamos artistas
-            a inventar e desenvolver a identidade das suas artes. 
-            
-            A expressão genuína é bela em si mesma."
+
+            Nós acreditamos no poder transformador da música, então criamos 
+            Modulandu.<br>br>
+            A revolução é possível quando uma arte genuína é expressa. Mas às 
+            vezes é difícil para artistas e suas músicas atingirem uma audiência.
+            Nosso selo trabalha junto a artistas para que eles possam expressar 
+            a mais genuína de suas vozes para o mundo."
             buttons:
                 - name: Blog
                   url: posts
