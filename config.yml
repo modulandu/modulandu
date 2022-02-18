@@ -1,5 +1,5 @@
 baseURL: "https://adityatelange.github.io/hugo-PaperMod/"
-title: PaperMod
+title: Modulandu
 paginate: 5
 theme: PaperMod
 
@@ -34,14 +34,14 @@ languages:
                   url: categories/
                   weight: 10
 
-    fr:
-        languageName: ":fr:"
-        languageAltTitle: French
+    pt-br:
+        languageName: "Português"
+        languageAltTitle: Português
         weight: 2
-        title: PaperModL2
+        title: Modulandu
         profileMode:
             enabled: true
-            title: PaperMod
+            title: Modulandu
             # imageUrl: "#"
             # imageTitle: my image
             # imageWidth: 120
@@ -54,37 +54,16 @@ languages:
                   url: tags
         menu:
             main:
-                - name: Archive
+                - name: Arquivo
                   url: archives/
                   weight: 5
                 - name: Tags
                   url: tags
                   weight: 10
-                - name: Categories
+                - name: Categorias
                   url: categories
                   weight: 10
-                - name: Series
-                  url: series
-                  weight: 10
-                - name: NullLink
-                  url: "#"
-                - name: NullLink2
-                  url: "#"
-                - name: NullLink3
-                  url: "#"
 
-    fa:
-        languagedirection: rtl
-        weight: 3
-        title: PaperMod RTL
-        homeInfoParams:
-            Title: "Hi there \U0001F44B"
-            Content: Welcome to RTL layout
-        menu:
-            main:
-                - name: Tags
-                  url: tags
-                  weight: 10
 
 outputs:
     home:
