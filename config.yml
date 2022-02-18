@@ -27,13 +27,12 @@ languages:
             imageWidth: 120
             imageHeight: 120
             subtitle: "Music can be modulated in several ways:
-             rhythmically and harmonically, but also historically and culturally.
-             Sounds modulate our mood and our senses, they make our
-             body move and our emotions flow.<br><br>
+            rhythmically and harmonically, but also historically and culturally.
+            Sounds modulate our mood and our senses, they make our
+            body move and our emotions flow.<br><br>
             
-            We believe in the transforming power of music so we created Modulandu.
-            Our label works together with artists so they can express their most genuine 
-            voice to the world. Join us in this journey."
+            We collaborate with other artists to make the music we love.
+            Join us in this journey."
             buttons:
                 - name: Blog
                   url: posts
@@ -61,7 +60,7 @@ languages:
         title: Modulandu
         profileMode:
             enabled: true
-            title: Nós somos Modulandu
+            title: Somos Modulandu
             imageUrl: "logomodulandu1.png"
             imageTitle: logo
             imageWidth: 120
@@ -69,13 +68,11 @@ languages:
             #subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
             subtitle: "Música pode ser modulada de diversas maneiras: 
             rítmica e harmonicamente, mas também histórica e culturalmente. 
-            Sons modulam o nosso humor e os nossos sentidos, fazem nosso 
-            corpo se mover e nossas emoções fluírem. <br><br>
-
-            Nós acreditamos no poder transformador da música, então criamos 
-            Modulandu.
-            Nosso selo trabalha junto a artistas para que eles possam expressar 
-            a mais genuína das suas vozes para o mundo. Venha conosco nesta viagem."
+            Sons modulam o nosso humor e os nossos sentidos, fazem nosso corpo 
+            se mover e nossas emoções fluírem.<br><br>
+            
+             Colaboramos com outros artistas para fazer a música que amamos.
+             Junte-se a nós nesta jornada."
             buttons:
                 - name: Blog
                   url: posts
@@ -120,8 +117,8 @@ params:
     images: ["papermod-cover.png"]
 
     profileMode:
-        enabled: false
-        title: PaperMod
+        enabled: enabled
+        title: Modulandu
         imageUrl: "#"
         imageTitle: my image
         # imageWidth: 120
@@ -133,21 +130,21 @@ params:
               url: tags
 
     homeInfoParams:
-        Title: "PaperMod"
+        Title: "Modulandu"
         Content: >
-            Welcome to demo of hugo's theme PaperMod.
-
-            - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
-
-            - Do give a 🌟 on Github !
-
-            - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
+            Music can be modulated in several ways:
+            rhythmically and harmonically, but also historically and culturally.
+            Sounds modulate our mood and our senses, they make our
+            body move and our emotions flow.<br><br>
+            
+            We collaborate with other artists to make the music we love.
+            Join us in this journey.
 
     socialIcons:
-        - name: github
-          url: "https://github.com/adityatelange/hugo-PaperMod"
-        - name: KoFi
-          url: "https://ko-fi.com/adityatelange"
+        - name: bandcamp
+          url: "https://modulandu.bandcamp.com"
+        - name: instagram
+          url: "https://instagram.com/modulandu"
         - name: RsS
           url: "index.xml"
 
