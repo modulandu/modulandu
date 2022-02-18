@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Modulandu</title>
-    <link>https://modulandu.github.io/pt-br/tags/</link>
+    <link>http://modulandu.github.io/pt-br/tags/</link>
     <description>Recent content in Tags on Modulandu</description>
     <image>
-      <url>https://modulandu.github.io/papermod-cover.png</url>
-      <link>https://modulandu.github.io/papermod-cover.png</link>
+      <url>http://modulandu.github.io/papermod-cover.png</url>
+      <link>http://modulandu.github.io/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://modulandu.github.io/pt-br/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://modulandu.github.io/pt-br/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>css</title>
-      <link>https://modulandu.github.io/pt-br/tags/css/</link>
+      <link>http://modulandu.github.io/pt-br/tags/css/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://modulandu.github.io/pt-br/tags/css/</guid>
+      <guid>http://modulandu.github.io/pt-br/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>https://modulandu.github.io/pt-br/tags/html/</link>
+      <link>http://modulandu.github.io/pt-br/tags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://modulandu.github.io/pt-br/tags/html/</guid>
+      <guid>http://modulandu.github.io/pt-br/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>https://modulandu.github.io/pt-br/tags/markdown/</link>
+      <link>http://modulandu.github.io/pt-br/tags/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://modulandu.github.io/pt-br/tags/markdown/</guid>
+      <guid>http://modulandu.github.io/pt-br/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>https://modulandu.github.io/pt-br/tags/themes/</link>
+      <link>http://modulandu.github.io/pt-br/tags/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://modulandu.github.io/pt-br/tags/themes/</guid>
+      <guid>http://modulandu.github.io/pt-br/tags/themes/</guid>
       <description></description>
     </item>
     
