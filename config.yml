@@ -31,10 +31,9 @@ languages:
              Sounds modulate our mood and our senses, they make our
              body move and our emotions flow.
             
-             We believe in the transforming power of music so we created Modulandu.<br><br>
-            Revolution is possible when genuine art is expressed. But it is sometimes tricky 
-            for artists and their music reach an audience. Our label work together with 
-            artists so they can express their most genuine voice to the world."
+            We believe in the transforming power of music so we created Modulandu.<br><br>
+            Our label works together with artists so they can express their most genuine 
+            voice to the world."
             buttons:
                 - name: Blog
                   url: posts
@@ -75,10 +74,8 @@ languages:
 
             Nós acreditamos no poder transformador da música, então criamos 
             Modulandu.<br>br>
-            A revolução é possível quando uma arte genuína é expressa. Mas às 
-            vezes é difícil para artistas e suas músicas atingirem uma audiência.
             Nosso selo trabalha junto a artistas para que eles possam expressar 
-            a mais genuína de suas vozes para o mundo."
+            a mais genuína das suas vozes para o mundo."
             buttons:
                 - name: Blog
                   url: posts
