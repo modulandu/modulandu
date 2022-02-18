@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Series on Modulandu</title>
-    <link>http://modulandu.github.io/series/</link>
+    <link>http://www.modulandu.com/series/</link>
     <description>Recent content in Series on Modulandu</description>
     <image>
-      <url>http://modulandu.github.io/papermod-cover.png</url>
-      <link>http://modulandu.github.io/papermod-cover.png</link>
+      <url>http://www.modulandu.com/papermod-cover.png</url>
+      <link>http://www.modulandu.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://modulandu.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://www.modulandu.com/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PaperMod</title>
-      <link>http://modulandu.github.io/series/papermod/</link>
+      <link>http://www.modulandu.com/series/papermod/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://modulandu.github.io/series/papermod/</guid>
+      <guid>http://www.modulandu.com/series/papermod/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Themes Guide</title>
-      <link>http://modulandu.github.io/series/themes-guide/</link>
+      <link>http://www.modulandu.com/series/themes-guide/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://modulandu.github.io/series/themes-guide/</guid>
+      <guid>http://www.modulandu.com/series/themes-guide/</guid>
       <description></description>
     </item>
     
