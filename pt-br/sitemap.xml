@@ -171,18 +171,6 @@
                 href="https://modulandu.com/pt-br/series/themes-guide/"
                 />
   </url><url>
-    <loc>https://modulandu.com/pt-br/archives/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://modulandu.com/archives/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://modulandu.com/pt-br/archives/"
-                />
-  </url><url>
     <loc>https://modulandu.com/pt-br/search/</loc>
     <xhtml:link
                 rel="alternate"
@@ -193,6 +181,18 @@
                 rel="alternate"
                 hreflang="pt-br"
                 href="https://modulandu.com/pt-br/search/"
+                />
+  </url><url>
+    <loc>https://modulandu.com/pt-br/archives/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://modulandu.com/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://modulandu.com/pt-br/archives/"
                 />
   </url>
 </urlset>
