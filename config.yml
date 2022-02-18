@@ -19,6 +19,19 @@ languages:
     en:
         languageName: "English"
         weight: 1
+        profileMode:
+            enabled: true
+            title: We are Modulandu
+            imageUrl: "logomodulandu1.png"
+            imageTitle: logo
+            imageWidth: 120
+            imageHeight: 120
+            subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
+            buttons:
+                - name: Blog
+                  url: posts
+                - name: Tags
+                  url: tags
         menu:
             main:
                 - name: Archive
@@ -36,17 +49,28 @@ languages:
 
     pt-br:
         languageName: "Português"
-        languageAltTitle: Português
+        languageAltTitle: PT-BR
         weight: 2
         title: Modulandu
         profileMode:
             enabled: true
-            title: Modulandu
-            # imageUrl: "#"
-            # imageTitle: my image
-            # imageWidth: 120
-            # imageHeight: 120
-            subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
+            title: Nós somos Modulandu
+            imageUrl: "logomodulandu1.png"
+            imageTitle: logo
+            imageWidth: 120
+            imageHeight: 120
+            #subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
+            subtitle: "Música pode ser modulada de diversas maneiras: 
+            rítmica e harmonicamente, mas também histórica e culturalmente. 
+            Sons modulam o nosso humor e os nossos sentidos, fazem nosso 
+            corpo se mover e nossas emoções fluírem. 
+            
+            Acreditando no poder transformador da música nós criamos o selo Modulandu.<br><br>
+            Nosso selo se orienta em saber mais sobre as pessoas que criam 
+            e criar com elas. Nós produzimos nossas próprias músicas e ajudamos artistas
+            a inventar e desenvolver a identidade das suas artes. 
+            
+            A expressão genuína é bela em si mesma."
             buttons:
                 - name: Blog
                   url: posts
@@ -54,7 +78,7 @@ languages:
                   url: tags
         menu:
             main:
-                - name: Arquivo
+                - name: Mais antigas
                   url: archives/
                   weight: 5
                 - name: Tags
@@ -75,7 +99,7 @@ params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
     author: Theme PaperMod
-    # author: ["Me", "You"] # multiple authors
+    author: ["Fernando Filho", "Lucas Jardim"] # multiple authors
 
     defaultTheme: auto
     # disableThemeToggle: true
