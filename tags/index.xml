@@ -2,92 +2,92 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Modulandu</title>
-    <link>http://www.modulandu.com/tags/</link>
+    <link>https://modulandu.com/tags/</link>
     <description>Recent content in Tags on Modulandu</description>
     <image>
-      <url>http://www.modulandu.com/papermod-cover.png</url>
-      <link>http://www.modulandu.com/papermod-cover.png</link>
+      <url>https://modulandu.com/papermod-cover.png</url>
+      <link>https://modulandu.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://www.modulandu.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://modulandu.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PaperMod</title>
-      <link>http://www.modulandu.com/tags/papermod/</link>
+      <link>https://modulandu.com/tags/papermod/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://www.modulandu.com/tags/papermod/</guid>
+      <guid>https://modulandu.com/tags/papermod/</guid>
       <description></description>
     </item>
     
     <item>
       <title>css</title>
-      <link>http://www.modulandu.com/tags/css/</link>
+      <link>https://modulandu.com/tags/css/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.modulandu.com/tags/css/</guid>
+      <guid>https://modulandu.com/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>http://www.modulandu.com/tags/html/</link>
+      <link>https://modulandu.com/tags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.modulandu.com/tags/html/</guid>
+      <guid>https://modulandu.com/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>http://www.modulandu.com/tags/markdown/</link>
+      <link>https://modulandu.com/tags/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.modulandu.com/tags/markdown/</guid>
+      <guid>https://modulandu.com/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>http://www.modulandu.com/tags/themes/</link>
+      <link>https://modulandu.com/tags/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.modulandu.com/tags/themes/</guid>
+      <guid>https://modulandu.com/tags/themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>privacy</title>
-      <link>http://www.modulandu.com/tags/privacy/</link>
+      <link>https://modulandu.com/tags/privacy/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.modulandu.com/tags/privacy/</guid>
+      <guid>https://modulandu.com/tags/privacy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>shortcodes</title>
-      <link>http://www.modulandu.com/tags/shortcodes/</link>
+      <link>https://modulandu.com/tags/shortcodes/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.modulandu.com/tags/shortcodes/</guid>
+      <guid>https://modulandu.com/tags/shortcodes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>text</title>
-      <link>http://www.modulandu.com/tags/text/</link>
+      <link>https://modulandu.com/tags/text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.modulandu.com/tags/text/</guid>
+      <guid>https://modulandu.com/tags/text/</guid>
       <description></description>
     </item>
     
     <item>
       <title>emoji</title>
-      <link>http://www.modulandu.com/tags/emoji/</link>
+      <link>https://modulandu.com/tags/emoji/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.modulandu.com/tags/emoji/</guid>
+      <guid>https://modulandu.com/tags/emoji/</guid>
       <description></description>
     </item>
     
