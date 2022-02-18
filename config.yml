@@ -26,13 +26,15 @@ languages:
             imageTitle: logo
             imageWidth: 120
             imageHeight: 120
-            subtitle: "Music can be modulated in several ways:
-            rhythmically and harmonically, but also historically and culturally.
+            #subtitle: "☄️ chill | ☁️ ambient | 🌙 electronic | 📱 good vibrations"
+            subtitle: "
             Sounds modulate our mood and our senses, they make our
-            body move and our emotions flow.<br><br>
-            
-            We collaborate with other artists to make the music we love.
-            Join us in this journey."
+            body move and our emotions flow.<br>
+            Modulandu is a musical project by Fernando Figueira and Lucas Jardim that
+            unites electronic beats to Afro-Brazilian culture, psychedelia to
+            polyrhythmia.
+            <br><br>
+            ☄️ chillout | ☁️ afro-brasileiro | 🌙 electronica | 📱 good vibes"
             buttons:
                 - name: Blog
                   url: posts
@@ -65,14 +67,17 @@ languages:
             imageTitle: logo
             imageWidth: 120
             imageHeight: 120
-            #subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
-            subtitle: "Música pode ser modulada de diversas maneiras: 
-            rítmica e harmonicamente, mas também histórica e culturalmente. 
-            Sons modulam o nosso humor e os nossos sentidos, fazem nosso corpo 
-            se mover e nossas emoções fluírem.<br><br>
-            
-             Colaboramos com outros artistas para fazer a música que amamos.
-             Junte-se a nós nesta jornada."
+            subtitle: "Sons modulam o nosso humor e os nossos sentidos, 
+            fazem nosso corpo se mover e nossas emoções fluírem.<br>
+            Modulandu é um projeto musical por Fernando Figueira e Lucas Jardim que 
+            une beats eletrônicos à cultura afro-brasileira, psicodelia a
+            polirritmia.
+            <br><br>
+            ☄️ curtir e dançar | ☁️ afro-brasileiro | 🌙 eletrônica | 📱 good vibes"
+            #subtitle: "Música pode ser modulada de diversas maneiras: 
+            #rítmica e harmonicamente, mas também histórica e culturalmente. 
+            #Sons modulam o nosso humor e os nossos sentidos, fazem nosso corpo 
+            #se mover e nossas emoções fluírem."
             buttons:
                 - name: Blog
                   url: posts
@@ -143,6 +148,10 @@ params:
     socialIcons:
         - name: bandcamp
           url: "https://modulandu.bandcamp.com"
+        - name: soundcloud
+          url: "https://soundcloud.com/modulandu"
+        - name: mixcloud
+          url: "https://mixcloud.com/modulandu"
         - name: instagram
           url: "https://instagram.com/modulandu"
         - name: RsS
