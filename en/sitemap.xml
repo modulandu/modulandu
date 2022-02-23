@@ -2,75 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://modulandu.com/posts/papermod/papermod-installation/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://modulandu.com/posts/papermod/papermod-features/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://modulandu.com/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <loc>https://modulandu.com/posts/movimento/</loc>
+    <lastmod>2022-02-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://modulandu.com/pt-br/"
+                href="https://modulandu.com/pt-br/posts/movimento/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://modulandu.com/"
+                href="https://modulandu.com/posts/movimento/"
                 />
   </url><url>
-    <loc>https://modulandu.com/tags/papermod/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://modulandu.com/series/papermod/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://modulandu.com/posts/papermod/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://modulandu.com/posts/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <loc>https://modulandu.com/tags/ambient/</loc>
+    <lastmod>2022-02-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://modulandu.com/pt-br/posts/"
+                href="https://modulandu.com/pt-br/tags/ambient/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://modulandu.com/posts/"
-                />
-  </url><url>
-    <loc>https://modulandu.com/series/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://modulandu.com/pt-br/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://modulandu.com/series/"
-                />
-  </url><url>
-    <loc>https://modulandu.com/tags/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://modulandu.com/pt-br/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://modulandu.com/tags/"
+                href="https://modulandu.com/tags/ambient/"
                 />
   </url><url>
     <loc>https://modulandu.com/categories/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2022-02-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -82,130 +41,89 @@
                 href="https://modulandu.com/categories/"
                 />
   </url><url>
-    <loc>https://modulandu.com/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://modulandu.com/tags/chill-out/</loc>
+    <lastmod>2022-02-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://modulandu.com/pt-br/tags/css/"
+                href="https://modulandu.com/pt-br/tags/chill-out/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://modulandu.com/tags/css/"
+                href="https://modulandu.com/tags/chill-out/"
                 />
   </url><url>
-    <loc>https://modulandu.com/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://modulandu.com/categories/lan%C3%A7amentos/</loc>
+    <lastmod>2022-02-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://modulandu.com/pt-br/tags/html/"
+                href="https://modulandu.com/pt-br/categories/lan%C3%A7amentos/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://modulandu.com/tags/html/"
+                href="https://modulandu.com/categories/lan%C3%A7amentos/"
                 />
   </url><url>
-    <loc>https://modulandu.com/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://modulandu.com/tags/meditation/</loc>
+    <lastmod>2022-02-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://modulandu.com/</loc>
+    <lastmod>2022-02-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://modulandu.com/pt-br/tags/markdown/"
+                href="https://modulandu.com/pt-br/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://modulandu.com/tags/markdown/"
+                href="https://modulandu.com/"
                 />
   </url><url>
-    <loc>https://modulandu.com/posts/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://modulandu.com/posts/</loc>
+    <lastmod>2022-02-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://modulandu.com/pt-br/posts/markdown-syntax/"
+                href="https://modulandu.com/pt-br/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://modulandu.com/posts/markdown-syntax/"
+                href="https://modulandu.com/posts/"
                 />
   </url><url>
-    <loc>https://modulandu.com/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://modulandu.com/tags/release/</loc>
+    <lastmod>2022-02-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://modulandu.com/categories/releases/</loc>
+    <lastmod>2022-02-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://modulandu.com/pt-br/categories/syntax/"
+                href="https://modulandu.com/pt-br/categories/releases/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://modulandu.com/categories/syntax/"
+                href="https://modulandu.com/categories/releases/"
                 />
   </url><url>
-    <loc>https://modulandu.com/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://modulandu.com/tags/</loc>
+    <lastmod>2022-02-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://modulandu.com/pt-br/tags/themes/"
+                href="https://modulandu.com/pt-br/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://modulandu.com/tags/themes/"
+                href="https://modulandu.com/tags/"
                 />
-  </url><url>
-    <loc>https://modulandu.com/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://modulandu.com/pt-br/categories/themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://modulandu.com/categories/themes/"
-                />
-  </url><url>
-    <loc>https://modulandu.com/series/themes-guide/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://modulandu.com/pt-br/series/themes-guide/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://modulandu.com/series/themes-guide/"
-                />
-  </url><url>
-    <loc>https://modulandu.com/tags/privacy/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://modulandu.com/posts/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://modulandu.com/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://modulandu.com/posts/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://modulandu.com/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://modulandu.com/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://modulandu.com/posts/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://modulandu.com/archives/</loc>
     <xhtml:link
@@ -229,6 +147,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://modulandu.com/search/"
+                />
+  </url><url>
+    <loc>https://modulandu.com/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://modulandu.com/pt-br/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://modulandu.com/series/"
                 />
   </url>
 </urlset>

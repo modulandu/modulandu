@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ambient on Modulandu</title>
+    <link>https://modulandu.com/pt-br/tags/ambient/</link>
+    <description>Recent content in ambient on Modulandu</description>
+    <image>
+      <url>https://modulandu.com/papermod-cover.png</url>
+      <link>https://modulandu.com/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 23 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://modulandu.com/pt-br/tags/ambient/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lançamento da faixa Movimento</title>
+      <link>https://modulandu.com/pt-br/posts/movimento/</link>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://modulandu.com/pt-br/posts/movimento/</guid>
+      <description>Estamos felizes de lançar Movimento, uma faixa calma e introspectiva com Lucas Jardim tocando um piano preparado e Fernando Figueira no Guzheng (um instrumento ancestral Chinês).
+Espero que gostem. Fiquem ligados nos próximos lançamentos, se inscrevam no nosso blog e sigam a gente nas redes sociais.</description>
+    </item>
+    
+  </channel>
+</rss>
