@@ -154,7 +154,7 @@ params:
           url: "https://instagram.com/modulandu"
         - name: mixcloud
           url: "https://mixcloud.com/modulandu"
-        - name: RsS
+        - name: RSS
           url: "index.xml"
 
     editPost:
