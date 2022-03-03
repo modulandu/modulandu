@@ -144,12 +144,12 @@ params:
             Join us in this journey.
 
     socialIcons:
-        - name: bandcamp
-          url: "https://modulandu.bandcamp.com"
         - name: soundcloud
           url: "https://soundcloud.com/modulandu"
         - name: spotify
           url: "https://open.spotify.com/artist/3Eawco3H1zDIEtiXALSKK9?si=lTm56A2qRQqvZEaNYeLPBw"
+        - name: deezer
+          url: "https://www.deezer.com/us/artist/162054692"
         - name: instagram
           url: "https://instagram.com/modulandu"
         - name: mixcloud
@@ -157,10 +157,10 @@ params:
         - name: RSS
           url: "index.xml"
 
-    editPost:
-        URL: "https://github.com/modulandu/modulandu/tree/main/content"
-        Text: "Suggest Changes" # edit text
-        appendFilePath: true # to append file path to Edit link
+    #editPost:
+    #    URL: "https://github.com/modulandu/modulandu/tree/main/content"
+    #    Text: "Suggest Changes" # edit text
+    #    appendFilePath: true # to append file path to Edit link
 
     # label:
     #     text: "Home"
